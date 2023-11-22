@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMBIANfdgjlGe8BcLoBOoHMAPYbCDFGMHyIMnWeLUEP8pwd6g0Xxd3Cfjz4YItD7cpW1sa8qb1Tvmz4oTH9MaA==",
+  "success": true,
+  "projectFilePath": "E:\\ZZZZZ\\Ingenieria de Software I\\github\\01-sistemas-informacion\\01-sistemas-informacion\\01-sistemas-informacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Laboratorio F\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
